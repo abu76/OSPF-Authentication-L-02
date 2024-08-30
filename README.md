@@ -13,3 +13,4 @@ By the end of this guide, you'll have the knowledge and skills needed to secure 
 Don't forget to like, share, and subscribe for more networking tutorials and tips! 
 
 #OSPF #NetworkSecurity #RoutingProtocols #Cisco #NetworkingTutorials
+Youtube Video : https://youtu.be/NxcxxwBEc90
